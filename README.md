@@ -48,3 +48,6 @@ This project illustrates the use of traditional time series models (ARIMA and SA
 
 ## Architectural diagram illustrating the workflow of project:
 
+![Screenshot 2024-11-03 112505](https://github.com/user-attachments/assets/d88f920c-e24e-495b-9de1-6fb7cf5c0901)
+
+
