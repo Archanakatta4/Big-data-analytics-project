@@ -36,7 +36,7 @@ Performance metrics and visualizations are used to compare the LSTM predictions 
 The Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared values are used to evaluate the performance of each model.
 The project demonstrates the effectiveness of each model and compares their predictive abilities.
 
-** Libraries Used
+## Libraries Used
 Data Manipulation and Visualization: pandas, numpy, matplotlib, seaborn
 Statistical Analysis: statsmodels, pmdarima
 Machine Learning: sklearn, keras, tensorflow
